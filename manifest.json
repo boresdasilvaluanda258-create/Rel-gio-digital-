@@ -1,0 +1,25 @@
+{
+  "name": "Calculadora Científica Nexus",
+  "short_name": "NexusCalc",
+  "description": "Calculadora científica premium com modo RAD/DEG, memória Ans e design moderno",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f1a2b",
+  "background_color": "#03060c",
+  "orientation": "portrait",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
